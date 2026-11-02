@@ -151,16 +151,11 @@ flowchart LR
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohdajnas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0e1a&title_color=00d4ff&text_color=cbd5e1&icon_color=a78bfa&rank_icon=github" alt="GitHub stats" height="185" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdajnas&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0e1a&title_color=00d4ff&text_color=cbd5e1" alt="Top languages" height="185" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mohdajnas&theme=dark&hide_border=true&background=0a0e1a&ring=00d4ff&fire=a78bfa&currStreakLabel=00d4ff" alt="Streak stats" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdajnas&bg_color=0a0e1a&color=00d4ff&line=a78bfa&point=34d399&hide_border=true&area=true" width="100%" alt="Contribution graph" />
+  <img src="https://ghchart.rshah.org/00d4ff/mohdajnas" alt="Contribution heatmap" width="95%" />
 </p>
 
 ---
